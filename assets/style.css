@@ -1,0 +1,25 @@
+.hero{
+    height: 100vh;
+    background: url('img/hero.jpg') no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.logo-kelebihan{
+    font-size: 7em;
+}
+
+.btn-light{
+    transition: all ease-in-out 0.6s;
+    font-weight: bold;
+}
+
+.btn-light:hover{
+    background-color: #bdc3c7;
+    color: white !important;
+}
+
+#tentang h2{
+    padding-bottom: 20px;
+    border-bottom: 1px solid #fff;
+}
